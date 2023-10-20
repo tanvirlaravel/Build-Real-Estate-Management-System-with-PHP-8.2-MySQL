@@ -1,3 +1,7 @@
+<?php 
+    require_once('config.php');
+    define('BASE_URL', 'http://maintemplate.test/');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

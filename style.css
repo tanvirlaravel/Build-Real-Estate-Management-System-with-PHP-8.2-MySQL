@@ -117,3 +117,17 @@ input[type="submit"] {
     cursor: pointer;
     font-size: 16px;
 }
+
+.success{
+    font-weight: 700;
+    color: #02af0cf5;
+    background-color: #02af0c33;
+     padding: 10px;
+}
+
+.error{
+    font-weight: 700;
+    color: #af3102;
+    background-color: #e9aeae;
+    padding: 10px;
+}
